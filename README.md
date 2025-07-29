@@ -66,7 +66,7 @@ O **Bootcamp Excel com IA** é uma iniciativa da **DIO**, em parceria com a **Sa
 
 ## 🔗 Link do Projeto
 
-➡️ **[[https://github.com/SEU\_USUARIO/vendas-nike-brasil-excel](https://github.com/SEU_USUARIO/vendas-nike-brasil-excel)](https://github.com/biancaaesteves/Vendas)**
+➡️ https://github.com/biancaaesteves/Vendas
 
 
 
